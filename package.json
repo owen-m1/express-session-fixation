@@ -1,0 +1,22 @@
+{
+  "name": "express-session-fixation-middleware",
+  "version": "1.0.1",
+  "description": "Reset express-session session IDs to prevent against fixation attacks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "security",
+    "express",
+    "session",
+    "express-session",
+    "sid",
+    "prevent",
+    "fixation",
+    "id",
+    "regenerate"
+  ],
+  "author": "Owen Mills <owenmills@live.ca>",
+  "license": "MIT"
+}
